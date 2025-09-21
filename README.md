@@ -1,3 +1,5 @@
+I leverage my appreciation for art and design to create visually distinctive and compelling solutions
+
 #### Languages
 [![languages](https://skillicons.dev/icons?i=c,cpp,cs,java,py,go,bash,html,css,js,ts,php)](https://skillicons.dev)
 
