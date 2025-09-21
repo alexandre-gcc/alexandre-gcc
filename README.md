@@ -1,4 +1,4 @@
-I leverage my appreciation for art and design to create visually distinctive and compelling solutions
+<img src="https://github.com/user-attachments/assets/6f37ea21-3ec0-4062-81db-406fde37a4f6" width="100%">
 
 #### Languages
 [![languages](https://skillicons.dev/icons?i=c,cpp,cs,java,py,go,bash,html,css,js,ts,php)](https://skillicons.dev)
