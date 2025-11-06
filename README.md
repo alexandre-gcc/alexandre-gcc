@@ -8,7 +8,7 @@
 [![skills](https://skillicons.dev/icons?i=nodejs,express,react,vue,alpinejs,symfony,electron,discordjs,vite,tailwindcss,pinia,threejs,jest)](https://skillicons.dev)
 
 ### databases
-[![skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql)](https://skillicons.dev)
 
 ### tools & devops
 [![skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,cmake,postman,npm,figma)](https://skillicons.dev)
