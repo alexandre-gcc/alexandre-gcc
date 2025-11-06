@@ -13,7 +13,7 @@
 ### tools & devops
 [![skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,cmake,postman,npm,figma)](https://skillicons.dev)
 
-### ides & editors
+### IDEs & editors
 [![skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,idea)](https://skillicons.dev)
 
 ### game development
